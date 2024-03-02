@@ -1,0 +1,3 @@
+0 Đội mũ
+1 Không đội mũ
+2 Không có người
